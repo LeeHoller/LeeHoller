@@ -1,4 +1,5 @@
-#
+---
+
 Hi, I'm **LeeHoller**, a Junior Web Developer && Web Designer.  
 This is **FastFilm**, a modern film streaming UI project built with Next.js and Tailwind CSS.
 
